@@ -1,0 +1,16 @@
+{
+  "name": "dreadcast",
+  "owner": {
+    "name": "Kevin Fleming"
+  },
+  "metadata": {
+    "description": "Claude Code plugin for Dreadcast, the macOS weather and radar app."
+  },
+  "plugins": [
+    {
+      "name": "dreadcast",
+      "source": "./plugins/dreadcast",
+      "description": "Weather, radar and hazards from the Dreadcast app on your Mac."
+    }
+  ]
+}

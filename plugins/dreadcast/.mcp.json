@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "dreadcast": {
+      "command": "/Applications/Dreadcast.app/Contents/Helpers/dreadcast-mcp"
+    }
+  }
+}
