@@ -4,7 +4,7 @@
     "name": "Kevin Fleming"
   },
   "metadata": {
-    "description": "Claude Code plugin for Dreadcast, the macOS weather and radar app."
+    "description": "Claude Code plugin for the Dreadcast weather and radar app on your Mac."
   },
   "plugins": [
     {

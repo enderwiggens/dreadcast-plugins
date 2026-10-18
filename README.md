@@ -1,7 +1,7 @@
 # Dreadcast plugins
 
 Assistant plugins for [Dreadcast: Weather Radar & Forecasts](https://dreadcast.app), the
-macOS weather and radar app.
+weather and radar app for iPhone, iPad and Mac. The plugins work with the Mac app.
 
 ## Claude Code
 
