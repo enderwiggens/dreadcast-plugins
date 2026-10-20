@@ -1,7 +1,7 @@
 {
   "name": "dreadcast",
   "version": "1.0.0",
-  "description": "Weather, radar and hazards from the Dreadcast app on your Mac, with tools that change what Dreadcast shows.",
+  "description": "Weather, radar and hazards from the Dreadcast app on your Mac, with tools that change what Dreadcast shows. Coming to Dreadcast for Mac; not available yet.",
   "author": { "name": "Kevin Fleming" },
   "homepage": "https://dreadcast.app",
   "repository": "https://github.com/enderwiggens/dreadcast-plugins",

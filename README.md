@@ -5,6 +5,10 @@ macOS weather and radar app.
 
 ## Claude Code
 
+> **Coming to Dreadcast for Mac.** No current Dreadcast build includes assistant
+> connections, and Dreadcast isn't on the App Store yet, so the plugin has
+> nothing to connect to until a Mac version with assistants ships.
+
 The `dreadcast` plugin connects Claude Code to the Dreadcast app on your Mac. It
 adds Dreadcast's MCP server, a skill with Dreadcast's honesty rules (quote
 official alert text, never turn missing data into reassurance) and a
